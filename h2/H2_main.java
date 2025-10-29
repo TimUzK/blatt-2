@@ -23,7 +23,7 @@ public class H2_main {
 
         if (k > i && k > j) {
             max = k;
-        }a
+        }
 
     }
 }
